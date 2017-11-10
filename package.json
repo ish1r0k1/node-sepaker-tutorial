@@ -1,0 +1,16 @@
+{
+  "name": "node-sepaker-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hiroki Ishiwatari",
+  "license": "MIT",
+  "dependencies": {
+    "lame": "^1.2.4",
+    "pcm-volume": "^1.0.0",
+    "speaker": "^0.4.0"
+  }
+}
